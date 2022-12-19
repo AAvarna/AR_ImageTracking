@@ -12,7 +12,7 @@ Creating an immersive experience at museums for users by image tracking and spaw
 
 💻  Software
 
-For this particular project, this was the version of the saftware Unity that was used:
+For this particular project, these were the versions of the software used:
 
 Download Unity 👇🏽
 https://unity.com/download
@@ -21,10 +21,16 @@ Unity Hub Version - /2021.3.11f1
 XCode
 XCode Version 14.1 (14B47b)
 
+Visual Studio Code
+https://code.visualstudio.com
+
 
 🧰 Getting Started
 
 Once you have This Version of Unity and Xcode, you can get started by downloading the assets. 
+AR Foundation
+ARCore XR Plugin
+ARKit XR Plugin
 
 
 ‼️ Prerequisites
@@ -35,7 +41,7 @@ Download the Assets 👇🏽
 https://unsplash.com/photos/Ipv_MNTzcQI
 
 2) Dragon Asset:
-(https://assetstore.unity.com/packages/3d/characters/creatures/dragon-for-boss-monster-hp-79398)
+https://assetstore.unity.com/packages/3d/characters/creatures/dragon-for-boss-monster-hp-79398
 
 3) Joystick Pack:
 https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631
