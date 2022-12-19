@@ -7,7 +7,7 @@ Creating an immersive experience at museums for users by image tracking and spaw
 
 📷 Screenshots
 
-screenshot
+<img width="1440" alt="Screenshot 2022-12-19 at 4 51 40 PM" src="https://user-images.githubusercontent.com/98624595/208531452-96ff0f9e-07c3-4fd7-9916-8ddade0a52f8.png">
 
 
 💻  Software
