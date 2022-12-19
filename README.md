@@ -15,22 +15,34 @@ Creating an immersive experience at museums for users by image tracking and spaw
 For this particular project, these were the versions of the software used:
 
 Download Unity 👇🏽
+
 https://unity.com/download
+
 Unity Hub Version - /2021.3.11f1
 
+
 XCode
+
 XCode Version 14.1 (14B47b)
 
+
 Visual Studio Code
+
 https://code.visualstudio.com
 
 
 🧰 Getting Started
 
-Once you have This Version of Unity and Xcode, you can get started by downloading the assets. 
+Once you have This Version of Unity and Xcode, you can get started by downloading the assets.
+
+
 AR Foundation
+
 ARCore XR Plugin
+
 ARKit XR Plugin
+
+
 
 
 ‼️ Prerequisites
