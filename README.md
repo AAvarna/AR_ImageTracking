@@ -33,7 +33,7 @@ https://code.visualstudio.com
 
 🧰 Getting Started
 
-Once you have This Version of Unity and Xcode, you can get started by downloading the assets.
+Once you have This Version of Unity and Xcode, you can get started by installing these from Unity Registry onto your project:
 
 
 AR Foundation
