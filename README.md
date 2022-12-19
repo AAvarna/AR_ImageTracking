@@ -59,6 +59,11 @@ https://assetstore.unity.com/packages/3d/characters/creatures/dragon-for-boss-mo
 https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631
 
 
+⌛ Future
+
+Create Assets such as dragon for each image to help users to interact with it 
+
+
 
 🤝 Contact
 
