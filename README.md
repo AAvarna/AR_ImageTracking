@@ -46,7 +46,7 @@ https://assetstore.unity.com/packages/tools/input-management/joystick-pack-10763
 
 Avarna Agarwal - avarnamagarwal@gmail.com
 
-Project Link: https://github.com/Louis3797/awesome-readme-template
+Project Link: https://github.com/AAvarna/AR_ImageTracking.git
 
 
 💎 Acknowledgements
