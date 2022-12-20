@@ -1,5 +1,5 @@
 # AR_ImageTracking
-Tracking an image to spawn a dragon that you can control with a toggle. 
+Tracking a painting in a museum and creating animations that user can control. 
 
 🌟 About the Project:
 
